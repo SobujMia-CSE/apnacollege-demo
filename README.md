@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository
 <br>
-Author - Md. Sobuj Mia
+Author - Md. Sobuj (Apna college)
